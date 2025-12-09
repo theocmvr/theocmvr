@@ -8,4 +8,4 @@ of Quantitative Finance and Algorithm Optimization.
 ```
 <a href="https://www.linkedin.com/in/theocmvr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <img src="https://atrating.baoshuo.dev/rating?username=theofps">
-[![LeetCode user theocmvr](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftheocmvr%2Fcn%2F&logo=leetcode&logoColor=yellow)](https://leetcode.com/theocmvr/)
+[![LeetCode user theocmvr](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftheocmvr&logo=leetcode&logoColor=yellow)](https://leetcode.com/theocmvr/)
